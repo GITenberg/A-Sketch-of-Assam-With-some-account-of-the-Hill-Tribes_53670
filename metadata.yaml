@@ -1,11 +1,16 @@
 _repo: A-Sketch-of-Assam-With-some-account-of-the-Hill-Tribes_53670
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 53670-h/images/new-cover.jpg
 creator:
   author:
     agent_name: Butler, John, Major
     gutenberg_agent_id: '48823'
     url: http://www.gutenberg.org/2009/agents/48823
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/53670#A-Sketch-of-Assam-With-some-account-of-the-Hill-Tribes
 gutenberg_issued: '2016-12-05'
 gutenberg_type: Text
 identifiers:
